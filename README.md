@@ -19,7 +19,7 @@ Repo ini saya buat untuk mendokumentasikan perjalanan saya dalam belajar bahasa 
 3. Casting (Konversi Tipe Data)
 4. Input & Output
 5. Operasi Aritmatika
-6. Konversi Suhu → [`06-konversi-suhu/konversi_suhu.py`](./06-konversi-suhu/konversi_suhu.py)
+6. Konversi Suhu → [`07-konversi-suhu/konversi_suhu.py`](./07-konversi-suhu/konversi_suhu.py)
 
 ---
 
