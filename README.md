@@ -24,7 +24,7 @@ Repo ini saya buat untuk mendokumentasikan perjalanan saya dalam belajar bahasa 
 ---
 
 ## 🛠️ Tools yang digunakan
-- Python 3.x
+- Python 3.13.6
 - Visual Studio Code
 - Git & GitHub
 
