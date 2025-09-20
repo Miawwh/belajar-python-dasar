@@ -28,8 +28,9 @@ print(z.real)
 print(z.imag)
 
 # Python juga bisa menyimpan tipe data dari bahasa pemograman C dengan menggunakan library "Ctypes"
+
 # Syntax untuk mengecek suatu variabel yang menyimpan/memiliki tipe data apa :
 # Contoh :
 data = "Jeremiah - Lengkong"
-print(type(data)) #Outpunya : <class 'str'> | yang berarti variabel bernama data menyimpan/memiliki tipe data string(str).
+print(type(data)) # Outpunya : <class 'str'> | yang berarti variabel bernama 'data' menyimpan/memiliki tipe data string(str).
 
