@@ -1,7 +1,6 @@
 # ====================================
 # Belajar Python - Input
 # Materi: Memasukkan data dari pengguna
-# Dibuat oleh: Jeremiah Lengkong
 # ====================================
 
 # 🔹 Apa itu input()?
@@ -42,4 +41,26 @@ print("Tinggi Anda adalah:", tinggi, "cm")
 # - Jika inputan diisi dengan nilai apa pun → hasilnya True
 mahasiswa = bool(input("Apakah Anda mahasiswa? (isi apa saja atau kosongkan): "))
 print("Mahasiswa:", mahasiswa)
+
+# ====================================
+# Menerima lebih dari satu inputan
+# ====================================
+# Kadang kita ingin user memasukkan lebih dari satu nilai sekaligus,
+# misalnya 2 atau 3 bilangan dalam satu baris.
+# Caranya kita bisa menggunakan fungsi split() untuk memisahkan input
+# berdasarkan spasi, lalu dipetakan (map) ke tipe data tertentu.
+
+# Bentuk umum (basic syntax):
+# variabel1, variabel2, ... = map(tipe_data, input("Pesan: ").split())
+
+# Contoh: menerima 3 bilangan bulat yang dipisahkan spasi
+a, b, c = map(int, input("Masukkan 3 bilangan yang dipisah dengan spasi: ").split())
+print("Bilangan pertama:", a)
+print("Bilangan kedua:", b)
+print("Bilangan ketiga:", c)
+
+# Contoh lain: menerima 2 angka desimal (float)
+x, y = map(float, input("Masukkan 2 bilangan desimal (dipisah spasi): ").split())
+print("Bilangan x:", x)
+print("Bilangan y:", y)
 

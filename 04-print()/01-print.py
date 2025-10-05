@@ -1,7 +1,6 @@
 # ====================================
 # Belajar Python - Fungsi print()
 # Materi: Output dengan print() di Python
-# Dibuat oleh: Jeremiah Lengkong
 # ====================================
 
 # Di bab sebelumnya (tipe data dan casting) kita sudah beberapa kali menggunakan print().

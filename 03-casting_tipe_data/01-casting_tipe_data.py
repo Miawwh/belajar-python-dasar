@@ -1,7 +1,6 @@
 # ====================================
 # Belajar Python - Casting (Konversi Tipe Data)
 # Materi: Mengubah (convert) tipe data
-# Dibuat oleh: Jeremiah Lengkong
 # ====================================
 
 # Apa itu casting?

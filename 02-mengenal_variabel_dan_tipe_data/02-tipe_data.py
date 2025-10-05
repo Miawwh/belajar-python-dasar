@@ -1,7 +1,6 @@
 # ====================================
 # Belajar Python - Tipe Data
 # Materi: Mengenal Tipe Data di Python
-# Dibuat oleh: Jeremiah Lengkong
 # ====================================
 
 # Apa itu tipe data?
