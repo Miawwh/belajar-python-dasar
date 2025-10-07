@@ -112,6 +112,8 @@ print(f"Nilai ujian: {nilai:10.2f}") # lebar 10 karakter, dengan 2 angka desimal
 # \"  → tanda kutip ganda
 # \'  → tanda kutip tunggal
 # \\  → backslash
+# \b  → backspace
+# \r  → 
 
 print("\nEscape Sequence:")
 print("Halo\nDunia")    # \n membuat baris baru
